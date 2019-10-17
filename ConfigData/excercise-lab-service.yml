@@ -1,0 +1,20 @@
+---
+# Items that apply to ALL profiles:
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8010/eureka/
+
+---
+spring:
+  profiles: name
+words: A,B,C,D,E 
+  
+---
+spring:
+  profiles: lastname
+words: 1,2,3,4,5
+
+spring:
+  profiles: dni
+words: 123, 456, 789, 000, 111
