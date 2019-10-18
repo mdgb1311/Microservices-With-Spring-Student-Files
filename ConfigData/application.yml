@@ -36,3 +36,5 @@ spring:
   profiles: noun
 words: boat,book,vote,seat,backpack,partition,groundhog
   
+---
+message-dni-not-found: No se encontró el dni: 
