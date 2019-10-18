@@ -8,6 +8,8 @@ eureka:
 
 ---
 message-everis: Se obtuvo el listado de personas exitosamente
+message-dni: No se encontró el dni: 
+message-servidor: El servidor está caido
 
 ---
 spring:
