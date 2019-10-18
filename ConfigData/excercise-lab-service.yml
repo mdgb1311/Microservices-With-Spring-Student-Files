@@ -1,11 +1,22 @@
----
-# Items that apply to ALL profiles:
-#eureka:
- # client:
-  #  serviceUrl:
-   #   defaultZone: http://localhost:8010/eureka/
-
----
-#spring:
-#  profiles: name
-words: A%1%123,B%2%456,C%3%789,D%4%000,E%5%111
+list:
+ persons:
+   -
+     dni: 11223344
+     nombre: Dennis
+     apellido: Wilson
+   -
+     dni: 22334455
+     nombre: Daniel
+     apellido: Martinez
+   -
+     dni: 33445566
+     nombre: Diego
+     apellido: Franco
+   -
+     dni: 99887766
+     nombre: Sofia
+     apellido: Bardales
+   -
+     dni: 77668855
+     nombre: Gabriel
+     apellido: Torres
