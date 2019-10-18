@@ -33,3 +33,5 @@ words: boat,book,vote,seat,backpack,partition,groundhog
 
 ---
 message-everis: Se obtuvo el listado de personas exitosamente
+
+service-unavailable: Servidor %s caido
