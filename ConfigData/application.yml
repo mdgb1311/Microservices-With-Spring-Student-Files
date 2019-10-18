@@ -7,13 +7,13 @@ eureka:
       #defaultZone: http://localhost:8011/eureka/,http://localhost:8012/eureka/,http://localhost:8013/eureka/
 
 ---
-message-everis: Se obtuvo el listado de personas exitosamente
+mensaje-everis: Se obtuvo el listado de personas exitosamente
 
 ---
-server-off: El servidor está caido
+msje-server-off: El servidor está caido
 
 ---
-dni-not-found: No se encontró el dni: 
+message-dni: No se encontró el dni: 
 
 
 ---
