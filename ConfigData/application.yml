@@ -9,6 +9,11 @@ eureka:
 ---
 message-everis: Se obtuvo el listado de personas exitosamente
 
+---
+message-server-off: El servidor está caido
+---
+message-dni-not-found: No se encontró el dni: 
+
 
 ---
 spring:
