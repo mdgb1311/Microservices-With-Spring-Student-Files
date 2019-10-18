@@ -7,11 +7,6 @@ eureka:
       #defaultZone: http://localhost:8011/eureka/,http://localhost:8012/eureka/,http://localhost:8013/eureka/
 
 ---
-message-everis: Se obtuvo el listado de personas exitosamente
-message-dni: No se encontró el dni: 
-message-servidor: El servidor está caido
-
----
 spring:
   profiles: subject
 words: I,You,He,She,It
@@ -36,3 +31,6 @@ spring:
   profiles: noun
 words: boat,book,vote,seat,backpack,partition,groundhog
 
+---
+message-everis: Se obtuvo el listado de personas exitosamente
+message-dni: No se encontró el dni: 
