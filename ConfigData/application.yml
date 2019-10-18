@@ -7,6 +7,10 @@ eureka:
       #defaultZone: http://localhost:8011/eureka/,http://localhost:8012/eureka/,http://localhost:8013/eureka/
 
 ---
+cadena: Se obtuvo el listado de personas exitosamente
+
+
+---
 spring:
   profiles: subject
 words: I,You,He,She,It
